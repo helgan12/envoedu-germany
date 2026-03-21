@@ -6,6 +6,10 @@ import logoImage from "@assets/ChatGPT Image 23. Nov. 2025, 00_27_42_17638540746
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
+  const handleScrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <nav
       className="bg-secondary border-b border-border fixed top-0 w-full z-50"
@@ -18,6 +22,7 @@ export default function Navbar() {
           <Link
             href="/"
             className="flex items-center space-x-3"
+            onClick={handleScrollToTop}
             data-testid="nav-logo"
           >
             {/* 🔹 LOGO BOYUTU BURADA AYARLANIYOR */}
@@ -34,6 +39,7 @@ export default function Navbar() {
               href="/"
               className="hover:text-accent transition-colors whitespace-nowrap"
               style={{ color: "#ddd" }}
+              onClick={handleScrollToTop}
               data-testid="nav-home"
             >
               Ana Sayfa
@@ -113,6 +119,7 @@ export default function Navbar() {
                 href="/"
                 className="hover:text-accent transition-colors"
                 style={{ color: "#ddd" }}
+                onClick={handleScrollToTop}
                 data-testid="mobile-nav-home"
               >
                 Ana Sayfa
