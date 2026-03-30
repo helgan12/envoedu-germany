@@ -30,8 +30,8 @@ const mainServices = [
   },
   {
     icon: IdCard,
-    title: "Vize İşlemleri",
-    description: "Vize sürecinizi baştan sona yönetiyoruz.",
+    title: "Resmi İşlemler",
+    description: "Başvuru sürecinizle ilgili resmi işlemleri baştan sona yönetiyoruz.",
     features: [],
     color: "primary" as const,
   },

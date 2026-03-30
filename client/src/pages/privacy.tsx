@@ -25,7 +25,7 @@ export default function Privacy() {
             <section>
               <h2 className="text-2xl font-semibold text-foreground mb-4">2. Kişisel Verilerin İşlenme Amacı</h2>
               <p className="text-muted-foreground leading-relaxed">
-                Toplanan kişisel verileriniz, Envoedu tarafından sunulan Almanya eğitim danışmanlığı, vize süreçleri ve kariyer planlama hizmetlerinden faydalanabilmeniz için gerekli çalışmaların iş birimlerimiz tarafından yapılması; hizmetlerimizin beğeni ve ihtiyaçlarınıza göre özelleştirilmesi; hukuki ve ticari güvenliğin temini ile ticari stratejilerimizin belirlenmesi amaçlarıyla KVKK'nın 5. ve 6. maddelerinde belirtilen şartlar dahilinde işlenmektedir.
+                Toplanan kişisel verileriniz, Envoedu tarafından sunulan Almanya eğitim danışmanlığı ve kariyer planlama hizmetlerinden faydalanabilmeniz için gerekli çalışmaların iş birimlerimiz tarafından yapılması; hizmetlerimizin beğeni ve ihtiyaçlarınıza göre özelleştirilmesi; hukuki ve ticari güvenliğin temini ile ticari stratejilerimizin belirlenmesi amaçlarıyla KVKK'nın 5. ve 6. maddelerinde belirtilen şartlar dahilinde işlenmektedir.
               </p>
             </section>
 

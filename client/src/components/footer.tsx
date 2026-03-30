@@ -37,7 +37,7 @@ export default function Footer() {
             <ul className="space-y-2 text-secondary-foreground/80">
               <li>Üniversite Danışmanlığı</li>
               <li>Başvuru ve Kabul Süreci</li>
-              <li>Vize Danışmanlığı</li>
+              <li>Yerleşim Danışmanlığı</li>
             </ul>
           </div>
 

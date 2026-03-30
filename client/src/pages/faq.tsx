@@ -19,14 +19,14 @@ const faqs = [
       "Almanya'daki devlet üniversitelerinde lisans ve yüksek lisans eğitimi çoğunlukla ücretsizdir. Sadece dönemlik katkı payı (yaklaşık 200-400 Euro) ödenir. Bu katkı payla ulaşım kartı ve diğer öğrenci hizmetleri sağlanır. Özel üniversiteler ve bazı MBA programları ücretlidir.",
   },
   {
-    question: "Öğrenci vizesi almak için ne kadar süre gerekir?",
+    question: "Almanya'da eğitim sürecim ne kadar sürer?",
     answer:
-      "Almanya öğrenci vizesi başvurusu genellikle 6-12 hafta arasında sonuçlanır. Bu süre başvurunun yapıldığı konsolosluğa ve başvuru yoğunluğuna göre değişebilir. Bu nedenle vize başvurunuzu en az 3 ay önceden yapmanız önerilir.",
+      "Almanya'daki başvuru ve kabul süreçleri genellikle birkaç ay sürebilir. Süreç, başvurunun yapıldığı üniversiteye ve başvuru yoğunluğuna göre değişebilir. Bu nedenle başvurularınızı dönem başlangıcından en az 3-6 ay önce yapmanız önerilir.",
   },
   {
     question: "Almanya'da çalışma izni var mı?",
     answer:
-      "Evet, öğrenci vizesiyle Almanya'da yılda 140 tam gün veya 280 yarım gün çalışma hakkınız vardır. Mezuniyet sonrası 18 ay iş arama vizesi alarak tam zamanlı çalışabilirsiniz.",
+      "Evet, Almanya'da eğitim alırken belirli şartlar altında yarı zamanlı çalışma imkanları vardır. Mezuniyet sonrası da iş arama ve çalışma izinleriyle ilgili çeşitli yasal haklarınız olabilir.",
   },
   {
     question: "Başvuru için hangi belgeler gereklidir?",
@@ -51,12 +51,12 @@ const faqs = [
   {
     question: "Mezuniyet sonrası Almanya'da kalabilir miyim?",
     answer:
-      "Evet! Almanya mezuniyet sonrası 18 ay iş arama vizesi sunar. Bu süre içinde işinize uygun bir iş bulabilir ve çalışma izni alabilirsiniz. İş bulduğunuzda Blue Card başvurusu yaparak kalıcı oturma hakkı kazanabilirsiniz.",
+      "Evet! Almanya, mezuniyet sonrası iş arama ve çalışma izinleri konusunda öğrencilere avantajlı imkanlar sunar. Bu süre içinde işinize uygun bir pozisyon bulabilir ve uzun vadeli çalışma ile oturum hakları için başvurabilirsiniz.",
   },
   {
     question: "Danışmanlık sürecinin her aşaması ne kadar sürer?",
     answer:
-      "İlk Görüşme: Ücretsiz danışmanlık görüşmemiz yaklaşık 1 saat sürer. Başvuru Hazırlığı: Tüm belgelerin hazırlanması ve başvuruların yapılması 2-4 hafta sürer. Üniversite Yanıtı: Üniversitelerden kabul cevabı almak 6-12 hafta arasında değişir. Vize İşlemleri: Vize başvurusu ve süreç takibi 4-6 hafta içinde tamamlanır. Toplam süreç, başvurudan vizeli kesin kabul alana kadar yaklaşık 3-6 ay arasında değişebilir.",
+      "İlk Görüşme: Ücretsiz danışmanlık görüşmemiz yaklaşık 1 saat sürer. Başvuru Hazırlığı: Tüm belgelerin hazırlanması ve başvuruların yapılması 2-4 hafta sürer. Üniversite Yanıtı: Üniversitelerden kabul cevabı almak 6-12 hafta arasında değişir. Toplam süreç, başvurudan kesin kabul alana kadar yaklaşık 3-6 ay arasında değişebilir.",
   },
 ];
 

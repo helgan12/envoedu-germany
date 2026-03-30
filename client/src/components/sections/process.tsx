@@ -23,9 +23,9 @@ const steps = [
   },
   {
     number: 4,
-    title: "Vize & Yerleşim",
+    title: "Yerleşim Süreci",
     description:
-      "Vize sürecinizi yönetir ve Almanya'da yerleşiminize destek oluruz",
+      "Almanya'da yerleşim sürecinizi yönetir ve size destek oluruz",
     color: "primary",
   },
 ];

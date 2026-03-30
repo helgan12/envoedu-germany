@@ -52,13 +52,13 @@ const processSteps = [
   },
   {
     step: 4,
-    title: "Vize Süreci",
+    title: "Yerleşim Süreci",
     duration: "4-6 hafta",
     icon: Plane,
     description:
-      "Vize sürecinizi yönetir ve Almanya'da yerleşiminize destek oluruz",
+      "Almanya'da yerleşim sürecinizi yönetir ve size destek oluruz",
     details: [
-      "Vize belgelerini hazırlıyoruz",
+      "Gerekli resmi belgeleri hazırlıyoruz",
       "Randevu alıyor ve takip ediyoruz",
       "Mülakata hazırlık desteği veriyoruz",
       "Konaklama ve sigorta işlemleri",
@@ -79,7 +79,7 @@ const requirements = [
   },
 
   {
-    category: "Vize süreci için gerekli belgeler",
+    category: "Yerleşim süreci için gerekli belgeler",
     items: [
       "Sponsor belgesi veya bloke hesap belgesi",
       "Burs belgesi (eğer varsa)",

@@ -15,7 +15,7 @@ const testimonials = [
     initials: "ZK",
     color: "accent" as const,
     content:
-      "Almanca seviyem sıfırdı, vize işlemleri karmaşık görünüyordu. Envoedu ile her şey çok kolay oldu. Şimdi Berlin'de okuyan bir öğrenciyim.",
+      "Almanca seviyem sıfırdı, tüm resmi işlemler karmaşık görünüyordu. Envoedu ile her şey çok kolay oldu. Şimdi Berlin'de okuyan bir öğrenciyim.",
   },
   {
     name: "Mehmet Özkan",

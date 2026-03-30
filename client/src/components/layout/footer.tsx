@@ -44,7 +44,7 @@ export default function Footer() {
                   className="hover:text-accent transition-colors"
                   data-testid="footer-service-3"
                 >
-                  Vize İşlemleri
+                  Başvuru Süreçleri
                 </Link>
               </li>
               <li>

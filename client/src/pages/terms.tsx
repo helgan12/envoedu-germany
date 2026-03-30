@@ -32,7 +32,7 @@ export default function Terms() {
             <section>
               <h2 className="text-2xl font-semibold text-foreground mb-4">3. Hizmetlerin İçeriği ve Sorumluluk</h2>
               <p className="text-muted-foreground leading-relaxed">
-                Envoedu, Almanya'daki eğitim sistemi hakkında bilgilendirme sunar. Ancak; üniversite kabul şartları, vize mevzuatı ve harç miktarları gibi bilgiler dış kurumlara bağlı olarak değişebilir. Envoedu, bu bilgilerin doğruluğu için azami çaba gösterse de, bilgilerin mutlak güncelliğini garanti etmez. Sitedeki bilgilere dayanarak işlem yapan kullanıcının uğrayabileceği doğrudan veya dolaylı zararlardan Envoedu sorumlu değildir.
+                Envoedu, Almanya'daki eğitim sistemi hakkında bilgilendirme sunar. Ancak; üniversite kabul şartları, ilgili mevzuat ve harç miktarları gibi bilgiler dış kurumlara bağlı olarak değişebilir. Envoedu, bu bilgilerin doğruluğu için azami çaba gösterse de, bilgilerin mutlak güncelliğini garanti etmez. Sitedeki bilgilere dayanarak işlem yapan kullanıcının uğrayabileceği doğrudan veya dolaylı zararlardan Envoedu sorumlu değildir.
               </p>
             </section>
 

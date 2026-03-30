@@ -25,9 +25,9 @@ const services = [
   },
   {
     icon: IdCard,
-    title: "Vize İşlemleri",
-    description: "Öğrenci vizesi sürecinizi baştan sona yönetiyoruz.",
-    features: ["Vize danışmanlığı", "Belge hazırlama", "Randevu takibi"],
+    title: "Resmi İşlemler",
+    description: "Başvuru sürecinizle ilgili resmi işlemleri baştan sona yönetiyoruz.",
+    features: ["Resmi süreç danışmanlığı", "Belge hazırlama", "Randevu takibi"],
     color: "primary" as const
   },
   {

@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     rating: 5,
-    content: "Almanca seviyem sıfırdı, vize işlemleri karmaşık görünüyordu. Envoedu ile her şey çok kolay oldu. Şimdi Berlin'de mutlu bir öğrenciyim.",
+    content: "Almanca seviyem sıfırdı, tüm resmi işlemler karmaşık görünüyordu. Envoedu ile her şey çok kolay oldu. Şimdi Berlin'de mutlu bir öğrenciyim.",
     author: "Zeynep Kaya",
     program: "İşletme, Humboldt Üniversitesi",
     initials: "ZK",
