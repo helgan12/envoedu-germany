@@ -68,7 +68,7 @@ export default function Navbar() {
               style={{ color: "#ddd" }}
               data-testid="nav-vocational-de"
             >
-              Almanya Mesleki Eğitim
+              Mesleki Eğitim
             </a>
             <Link
               href="/process"
@@ -158,7 +158,7 @@ export default function Navbar() {
                 style={{ color: "#ddd" }}
                 data-testid="mobile-nav-vocational-de"
               >
-                Almanya Mesleki Eğitim
+                Mesleki Eğitim
               </a>
               <Link
                 href="/process"
