@@ -13,7 +13,6 @@ export const consultationRequests = pgTable("consultation_requests", {
   id: varchar("id").primaryKey().default(sql`gen_random_uuid()`),
   fullName: text("full_name").notNull(),
   email: text("email").notNull(),
-  phone: text("phone").notNull(),
   program: text("program").notNull(),
   message: text("message").notNull(),
   createdAt: timestamp("created_at").defaultNow(),
@@ -27,7 +26,6 @@ export const insertUserSchema = createInsertSchema(users).pick({
 export const insertConsultationRequestSchema = createInsertSchema(consultationRequests).pick({
   fullName: true,
   email: true,
-  phone: true,
   program: true,
   message: true,
 });

@@ -19,7 +19,6 @@ export default function ContactSection() {
 
   const [formData, setFormData] = useState({
     fullName: "",
-    phone: "",
     email: "",
     program: "",
     message: "",
@@ -34,7 +33,6 @@ export default function ContactSection() {
     if (
       !formData.fullName ||
       !formData.email ||
-      !formData.phone ||
       !formData.program ||
       !formData.message
     ) {
@@ -71,7 +69,6 @@ export default function ContactSection() {
         // Form reset
         setFormData({
           fullName: "",
-          phone: "",
           email: "",
           program: "",
           message: "",
@@ -120,40 +117,21 @@ export default function ContactSection() {
                 Randevu Talep Formu
               </h3>
               <form onSubmit={handleSubmit} className="space-y-6">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <div>
-                    <Label
-                      htmlFor="fullName"
-                      className="mb-2 block text-sm font-medium"
-                    >
-                      Ad Soyad
-                    </Label>
-                    <Input
-                      id="fullName"
-                      placeholder="Adınızı girin"
-                      value={formData.fullName}
-                      onChange={(e) =>
-                        handleInputChange("fullName", e.target.value)
-                      }
-                    />
-                  </div>
-                  <div>
-                    <Label
-                      htmlFor="phone"
-                      className="mb-2 block text-sm font-medium"
-                    >
-                      Telefon
-                    </Label>
-                    <Input
-                      id="phone"
-                      type="tel"
-                      placeholder="Telefon numaranız"
-                      value={formData.phone}
-                      onChange={(e) =>
-                        handleInputChange("phone", e.target.value)
-                      }
-                    />
-                  </div>
+                <div>
+                  <Label
+                    htmlFor="fullName"
+                    className="mb-2 block text-sm font-medium"
+                  >
+                    Ad Soyad
+                  </Label>
+                  <Input
+                    id="fullName"
+                    placeholder="Adınızı girin"
+                    value={formData.fullName}
+                    onChange={(e) =>
+                      handleInputChange("fullName", e.target.value)
+                    }
+                  />
                 </div>
                 <div>
                   <Label

@@ -34,7 +34,6 @@ export async function sendConsultationRequest(consultationData: InsertConsultati
     <h2>Yeni Randevu Talebi</h2>
     <p><strong>Ad Soyad:</strong> ${escapeHtml(consultationData.fullName)}</p>
     <p><strong>Email:</strong> ${escapeHtml(consultationData.email)}</p>
-    <p><strong>Telefon:</strong> ${escapeHtml(consultationData.phone)}</p>
     <p><strong>Program:</strong> ${escapeHtml(consultationData.program)}</p>
     <p><strong>Mesaj:</strong></p>
     <p>${consultationData.message ? escapeHtml(consultationData.message) : 'Mesaj bulunmamaktadır.'}</p>
@@ -70,7 +69,6 @@ export async function sendConfirmationEmail(consultationData: InsertConsultation
     
     <h3>Talep Detaylarınız:</h3>
     <p><strong>Program:</strong> ${escapeHtml(consultationData.program)}</p>
-    <p><strong>Telefon:</strong> ${escapeHtml(consultationData.phone)}</p>
     
     <p>Herhangi bir sorunuz olursa bizimle iletişime geçmekten çekinmeyin.</p>
     
