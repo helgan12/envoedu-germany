@@ -238,7 +238,7 @@ export default function ContactSection() {
                 <div>
                   <h4 className="font-semibold">WhatsApp</h4>
                   <a
-                    href="https://wa.me/4915214885048"
+                    href="https://wa.me/491723959721"
                     target="_blank"
                     className="text-muted-foreground hover:underline"
                   >

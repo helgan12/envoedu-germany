@@ -72,7 +72,7 @@ export default function Footer() {
             <div className="space-y-2 text-secondary-foreground/80">
               {/* WhatsApp */}
               <a
-                href="https://wa.me/4915214885048?text=Merhaba%20bilgi%20almak%20istiyorum"
+                href="https://wa.me/491723959721?text=Merhaba%20bilgi%20almak%20istiyorum"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="WhatsApp üzerinden iletişime geç"

@@ -318,7 +318,7 @@ export default function Contact() {
                       data-testid="text-whatsapp"
                     >
                       <a
-                        href="https://wa.me/4915214885048?text=Merhaba%20bilgi%20almak%20istiyorum"
+                        href="https://wa.me/491723959721?text=Merhaba%20bilgi%20almak%20istiyorum"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:underline"
