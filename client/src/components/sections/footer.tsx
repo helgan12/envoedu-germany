@@ -78,7 +78,7 @@ export default function Footer() {
                 aria-label="WhatsApp üzerinden iletişime geç"
                 className="block hover:text-accent transition-colors"
               >
-                WhatsApp: +49 1521 4885048
+                WhatsApp: +49 172 3959721
               </a>
 
               {/* E-posta */}

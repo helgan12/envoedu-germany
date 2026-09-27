@@ -242,7 +242,7 @@ export default function ContactSection() {
                     target="_blank"
                     className="text-muted-foreground hover:underline"
                   >
-                    +49 1521 4885048
+                    +49 172 3959721
                   </a>
                 </div>
               </div>

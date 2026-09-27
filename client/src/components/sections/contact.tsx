@@ -323,7 +323,7 @@ export default function Contact() {
                         rel="noopener noreferrer"
                         className="hover:underline"
                       >
-                        +49 1521 4885048
+                        +49 172 3959721
                       </a>
                     </p>
                   </div>
