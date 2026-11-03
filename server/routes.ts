@@ -1,6 +1,6 @@
 import type { Express } from "express";
-import { insertConsultationRequestSchema } from "../shared/consultation";
-import { sendConsultationRequest, sendConfirmationEmail } from "./emailService";
+import { insertConsultationRequestSchema } from "../shared/consultation.js";
+import { sendConsultationRequest, sendConfirmationEmail } from "./emailService.js";
 
 export function registerRoutes(app: Express): void {
   app.get("/api/health", (_req, res) => {

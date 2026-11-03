@@ -1,5 +1,5 @@
 import express, { type ErrorRequestHandler } from "express";
-import { registerRoutes } from "./routes";
+import { registerRoutes } from "./routes.js";
 
 export function createApp() {
   const app = express();

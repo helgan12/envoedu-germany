@@ -1,5 +1,5 @@
 import nodemailer from 'nodemailer';
-import type { InsertConsultationRequest } from '../shared/consultation';
+import type { InsertConsultationRequest } from '../shared/consultation.js';
 
 // HTML escape fonksiyonu - XSS koruması için
 export function escapeHtml(text: string): string {
