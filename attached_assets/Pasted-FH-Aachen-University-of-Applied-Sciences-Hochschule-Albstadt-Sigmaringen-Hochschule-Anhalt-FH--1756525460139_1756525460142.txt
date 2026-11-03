@@ -1,0 +1,205 @@
+FH Aachen – University of Applied Sciences
+
+Hochschule Albstadt-Sigmaringen
+
+Hochschule Anhalt (FH)
+
+Hochschule Ansbach
+
+Hochschule Aschaffenburg
+
+Hochschule Augsburg
+
+B
+
+Hochschule Biberach
+
+Hochschule Bochum
+
+Hochschule Bonn-Rhein-Sieg
+
+Hochschule Bremen – City University of Applied Sciences
+
+Hochschule Bremerhaven
+
+Brandenburg University of Applied Sciences
+
+C
+
+Hochschule Coburg
+
+Hochschule Darmstadt (h_da)
+
+Hochschule Deggendorf (TH Deggendorf)
+
+Hochschule Düsseldorf – University of Applied Sciences
+
+E
+
+Hochschule Esslingen – University of Applied Sciences
+
+Hochschule Emden/Leer
+
+Hochschule für Technik und Wirtschaft des Saarlandes (htw saar)
+
+Hochschule für Wirtschaft und Recht Berlin (HWR Berlin)
+
+Hochschule Fulda – University of Applied Sciences
+
+F
+
+Hochschule Furtwangen (HFU)
+
+Hochschule Flensburg – University of Applied Sciences
+
+G
+
+Hochschule Geisenheim University
+
+Hochschule Göttingen (HAWK – Hildesheim/Holzminden/Göttingen)
+
+Hochschule Gelsenkirchen (Westfälische Hochschule)
+
+H
+
+Hochschule Hamburg (HAW Hamburg)
+
+Hochschule Hannover
+
+Hochschule Harz – Wernigerode
+
+Hochschule Heilbronn
+
+Hochschule Hof – University of Applied Sciences
+
+Hochschule Hildesheim (HAWK)
+
+Hochschule Kaiserslautern
+
+Hochschule Karlsruhe – Technik und Wirtschaft
+
+Hochschule Kempten
+
+Hochschule Koblenz
+
+Hochschule Konstanz (HTWG)
+
+L
+
+Hochschule Landshut
+
+Hochschule Lausitz (Brandenburgische Technische Hochschule Cottbus-Senftenberg – FH Teil)
+
+Hochschule Lemgo (Technische Hochschule Ostwestfalen-Lippe)
+
+Hochschule Lübeck
+
+M
+
+Hochschule Mannheim
+
+Hochschule München (HM)
+
+Hochschule Merseburg
+
+Hochschule Mittweida
+
+Hochschule Mainz
+
+Hochschule Minden (FH Bielefeld – Campus Minden)
+
+Hochschule Münster
+
+N
+
+Hochschule Neu-Ulm (HNU)
+
+Hochschule Niederrhein (Krefeld, Mönchengladbach)
+
+Hochschule Nürtingen-Geislingen (HfWU)
+
+Hochschule Neubrandenburg
+
+O
+
+Hochschule Offenburg
+
+Hochschule Osnabrück
+
+Hochschule Ostfalia (Wolfenbüttel, Salzgitter, Suderburg, Wolfsburg)
+
+Hochschule OTH Amberg-Weiden
+
+Hochschule OTH Regensburg
+
+P
+
+Hochschule Pforzheim
+
+Hochschule Potsdam
+
+Hochschule Ravensburg-Weingarten
+
+Hochschule Reutlingen
+
+Hochschule RheinMain (Wiesbaden, Rüsselsheim)
+
+Hochschule Rosenheim (TH Rosenheim)
+
+S
+
+Hochschule Schmalkalden
+
+Hochschule Stralsund
+
+Hochschule Stuttgart (HFT Stuttgart)
+
+Hochschule Südwestfalen
+
+Hochschule Trier
+
+Hochschule Ulm
+
+Hochschule Weihenstephan-Triesdorf
+
+Hochschule Worms
+
+T–Z
+
+Technische Hochschule Brandenburg
+
+Technische Hochschule Deggendorf (OTHD)
+
+Technische Hochschule Ingolstadt
+
+Technische Hochschule Köln (TH Köln)
+
+Technische Hochschule Mittelhessen (THM Gießen-Friedberg)
+
+Technische Hochschule Nürnberg (Georg Simon Ohm)
+
+Technische Hochschule Wildau
+
+Technische Hochschule Würzburg-Schweinfurt (THWS)
+
+Hochschule Zittau/Görlitz
+
+Hochschule Zwickau (Westsächsische Hochschule Zwickau)
+
+Hochschule für angewandte Wissenschaften Hof
+
+Hochschule für angewandte Wissenschaften Hamburg
+
+Hochschule für angewandte Wissenschaften Augsburg
+
+Hochschule für angewandte Wissenschaften Erfurt
+
+Hochschule für angewandte Wissenschaften Jena
+
+Hochschule für angewandte Wissenschaften Leipzig
+
+Hochschule für angewandte Wissenschaften Magdeburg-Stendal
+
+Hochschule für angewandte Wissenschaften Nordhausen
+
+Hochschule für angewandte Wissenschaften Weimar (Bauhaus – FH Bereich)
