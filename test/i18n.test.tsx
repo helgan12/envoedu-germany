@@ -64,16 +64,15 @@ describe("Site language", () => {
     expect(screen.queryByTestId("no-results")).not.toBeInTheDocument();
   });
 
-  it("translates validation toasts and retains entered form data when switching", () => {
+  it("switches contact information without showing an appointment form", () => {
     window.history.replaceState({}, "", "/contact");
     render(<App />);
-    fireEvent.change(screen.getByTestId("input-full-name"), { target: { value: "Alex" } });
+    expect(screen.getByTestId("contact-info-title")).toHaveTextContent("İletişim Bilgileri");
+    expect(document.querySelector("form")).toBeNull();
     fireEvent.change(screen.getByTestId("language-switcher"), { target: { value: "en" } });
-    expect(screen.getByTestId("input-full-name")).toHaveValue("Alex");
-    expect(screen.getByTestId("input-full-name")).toHaveAttribute("placeholder", "Enter your name");
-    fireEvent.click(screen.getByTestId("button-submit-consultation"));
-    expect(screen.getAllByText("Please fill in all fields.").length).toBeGreaterThan(0);
-    expect(screen.getByTestId("button-submit-consultation")).toHaveTextContent("Request an Appointment");
+    expect(screen.getByTestId("contact-info-title")).toHaveTextContent("Contact Information");
+    expect(screen.getByTestId("contact-description")).toHaveTextContent("contact us via WhatsApp or email");
+    expect(screen.queryByTestId("contact-form-title")).not.toBeInTheDocument();
   });
 
   it("localizes joined language names and remains usable when storage is blocked", () => {

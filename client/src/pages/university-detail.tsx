@@ -3299,7 +3299,7 @@ export default function UniversityDetail() {
                 {translateNode(university.name)}{translateText(" hakkında daha fazla bilgi almak ister misiniz? ")}</h3>
               <p className="text-muted-foreground mb-6">{translateText(" Uzman danışmanlarımızla ücretsiz görüşme ayarlayın ")}</p>
               <Link href="/contact">
-                <button className="bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors">{translateText(" Danışmanlık Randevusu Al ")}</button>
+                <button className="bg-primary text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors">{translateText(" İletişime Geçin ")}</button>
               </Link>
             </div>
           </div>

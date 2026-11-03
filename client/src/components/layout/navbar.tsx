@@ -63,14 +63,6 @@ export default function Navbar() {
               style={{ color: "#ddd" }}
               data-testid="nav-universities"
             >{translateText(" Üniversiteler ")}</Link>
-            <a
-              href="https://envoedu.de"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-accent transition-colors whitespace-nowrap"
-              style={{ color: "#ddd" }}
-              data-testid="nav-vocational-de"
-            >{translateText(" Mesleki Eğitim ")}</a>
             <Link
               href="/process"
               className="hover:text-accent transition-colors whitespace-nowrap"
@@ -142,14 +134,6 @@ export default function Navbar() {
                 style={{ color: "#ddd" }}
                 data-testid="mobile-nav-universities"
               >{translateText(" Üniversiteler ")}</Link>
-              <a
-                href="https://envoedu.de"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-accent transition-colors"
-                style={{ color: "#ddd" }}
-                data-testid="mobile-nav-vocational-de"
-              >{translateText(" Mesleki Eğitim ")}</a>
               <Link
                 href="/process"
                 className="hover:text-accent transition-colors"

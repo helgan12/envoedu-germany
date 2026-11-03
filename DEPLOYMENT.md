@@ -12,9 +12,16 @@ serves the website without the email API.
 - Node API functions: `api/health.ts` and `api/consultation-requests.ts`
 - Verification: `npm ci`, `npm run check`, `npm test`, `npm run build`
 
-## Mail configuration
+## Contact page
 
-Set these environment variables in Vercel for the intended deployment environment:
+The appointment request form has been removed. The contact page now provides
+direct WhatsApp and email links, address information and opening hours in Turkish
+and English. These links do not use the SMTP service.
+
+## Optional mail API configuration
+
+The existing mail API is retained for compatibility but is not called by the
+contact page. Its environment variables, if needed, are:
 
 | Variable | Value |
 | --- | --- |
@@ -38,10 +45,9 @@ Valid mailbox credentials are required before live delivery can be confirmed.
 1. `https://www.envoedugermany.com/api/health` returns HTTP 200 and JSON containing
    `"status":"ok"`. It must not return an HTML document.
 2. `/contact` and university detail pages continue to load directly.
-3. An invalid email or a blank required field is rejected before sending.
-4. A valid submission reports success only after the business mailbox accepts it.
-5. The email received by the business includes the visitor's phone number.
-6. Confirmation email language follows the selected site language.
+3. `/contact` contains contact details and opening hours, without a request form.
+4. The WhatsApp link opens the intended contact and the email link uses `mailto:`.
+5. Turkish and English language selection updates the contact page text.
 
 Automated tests mock email delivery. Any live test message should be explicitly
 authorized and sent to an intended recipient.

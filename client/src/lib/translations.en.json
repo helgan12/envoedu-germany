@@ -83,7 +83,6 @@
   "Envoedu Germany – Yurtdışı Eğitim Danışmanlığı": "Envoedu Germany – Overseas Education Consultancy",
   "Ana Sayfa": "Home",
   "Üniversiteler": "Universities",
-  "Mesleki Eğitim": "Vocational Training",
   "Süreç": "Process",
   "Yorumlar": "Comments",
   "TR": "TR",
@@ -2458,5 +2457,6 @@
   "Geçersiz form verisi": "Invalid form data",
   "Talebiniz gönderilemedi. Lütfen tekrar deneyin veya WhatsApp üzerinden bizimle iletişime geçin.": "Your request could not be sent. Please try again or contact us via WhatsApp.",
   "İletişim servisine ulaşılamıyor. Lütfen WhatsApp üzerinden bizimle iletişime geçin.": "The contact service is unavailable. Please contact us via WhatsApp.",
-  "Randevu talebiniz başarıyla gönderildi. En kısa sürede size dönüş yapacağız.": "Your appointment request has been sent successfully. We will get back to you as soon as possible."
+  "Randevu talebiniz başarıyla gönderildi. En kısa sürede size dönüş yapacağız.": "Your appointment request has been sent successfully. We will get back to you as soon as possible.",
+  "Danışmanlık ve sorularınız için WhatsApp veya e-posta üzerinden bizimle iletişime geçin.": "For consultations and questions, contact us via WhatsApp or email."
 }
